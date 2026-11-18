@@ -1,0 +1,27 @@
+﻿train 5247, val 1085, test 1259 frames
+parameters: 383,378
+baseline val: steering MAE 0.270, target speed MAE 0.89 pos/s
+baseline test: steering MAE 0.205, target speed MAE 0.70 pos/s
+epoch  1  train loss 0.2046  val loss 0.1141  val steering MAE 0.189  val speed MAE 0.68  (10s)  <- saved
+epoch  2  train loss 0.1119  val loss 0.0798  val steering MAE 0.192  val speed MAE 0.53  (10s)  <- saved
+epoch  3  train loss 0.0776  val loss 0.0786  val steering MAE 0.196  val speed MAE 0.45  (10s)  <- saved
+epoch  4  train loss 0.0609  val loss 0.0541  val steering MAE 0.140  val speed MAE 0.51  (10s)  <- saved
+epoch  5  train loss 0.0498  val loss 0.0575  val steering MAE 0.155  val speed MAE 0.42  (10s)
+epoch  6  train loss 0.0417  val loss 0.0418  val steering MAE 0.122  val speed MAE 0.40  (10s)  <- saved
+epoch  7  train loss 0.0358  val loss 0.0488  val steering MAE 0.147  val speed MAE 0.36  (10s)
+epoch  8  train loss 0.0326  val loss 0.0373  val steering MAE 0.111  val speed MAE 0.38  (11s)  <- saved
+epoch  9  train loss 0.0301  val loss 0.0527  val steering MAE 0.140  val speed MAE 0.41  (10s)
+epoch 10  train loss 0.0276  val loss 0.0391  val steering MAE 0.125  val speed MAE 0.34  (9s)
+epoch 11  train loss 0.0246  val loss 0.0331  val steering MAE 0.104  val speed MAE 0.34  (10s)  <- saved
+epoch 12  train loss 0.0233  val loss 0.0238  val steering MAE 0.084  val speed MAE 0.33  (15s)  <- saved
+epoch 13  train loss 0.0215  val loss 0.0322  val steering MAE 0.104  val speed MAE 0.33  (39s)
+epoch 14  train loss 0.0221  val loss 0.0288  val steering MAE 0.096  val speed MAE 0.33  (17s)
+epoch 15  train loss 0.0208  val loss 0.0306  val steering MAE 0.104  val speed MAE 0.32  (15s)
+epoch 16  train loss 0.0205  val loss 0.0292  val steering MAE 0.104  val speed MAE 0.29  (15s)
+epoch 17  train loss 0.0197  val loss 0.0311  val steering MAE 0.106  val speed MAE 0.31  (14s)
+epoch 18  train loss 0.0195  val loss 0.0303  val steering MAE 0.104  val speed MAE 0.30  (15s)
+epoch 19  train loss 0.0195  val loss 0.0302  val steering MAE 0.103  val speed MAE 0.31  (15s)
+epoch 20  train loss 0.0196  val loss 0.0303  val steering MAE 0.103  val speed MAE 0.31  (15s)
+best epoch 12
+test mini_monaco: steering MAE 0.069, target speed MAE 0.50 pos/s
+test warehouse: steering MAE 0.221, target speed MAE 0.63 pos/s

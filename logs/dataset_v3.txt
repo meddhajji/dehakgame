@@ -1,0 +1,23 @@
+﻿data_circuit_launch_clean                {'frames': 581, 'kept': 571, 'start': 10}
+data_circuit_launch_dagger1              {'frames': 617, 'kept': 544, 'start': 10, 'intervened': 63}
+data_circuit_launch_noisy                {'frames': 594, 'kept': 542, 'start': 10, 'intervened': 42}
+data_generated_track_clean               {'frames': 342, 'kept': 332, 'start': 10}
+data_generated_track_dagger1             {'frames': 389, 'kept': 210, 'start': 10, 'intervened': 147, 'collision': 22}
+data_generated_track_noisy               {'frames': 355, 'kept': 312, 'start': 10, 'intervened': 33}
+data_mini_monaco_clean                   {'frames': 774, 'kept': 764, 'start': 10}
+data_mountain_track_clean                {'frames': 671, 'kept': 661, 'start': 10}
+data_mountain_track_dagger1              {'frames': 701, 'kept': 638, 'start': 10, 'intervened': 53}
+data_mountain_track_noisy                {'frames': 724, 'kept': 594, 'start': 10, 'intervened': 120}
+data_roboracingleague_1_clean            {'frames': 647, 'kept': 637, 'start': 10}
+data_roboracingleague_1_dagger1          {'frames': 676, 'kept': 645, 'start': 10, 'intervened': 21}
+data_roboracingleague_1_noisy            {'frames': 662, 'kept': 588, 'start': 10, 'intervened': 64}
+data_warehouse_clean                     {'frames': 505, 'kept': 495, 'start': 10}
+data_warren_clean                        {'frames': 523, 'kept': 513, 'start': 10}
+data_warren_dagger1                      {'frames': 552, 'kept': 437, 'start': 10, 'intervened': 105}
+data_warren_noisy                        {'frames': 551, 'kept': 437, 'start': 10, 'intervened': 104}
+data_waveshare_clean                     {'frames': 568, 'kept': 558, 'start': 10}
+data_waveshare_dagger1                   {'frames': 465, 'kept': 455, 'start': 10}
+data_waveshare_noisy                     {'frames': 597, 'kept': 587, 'start': 10}
+train:   7774 frames, tracks [np.str_('circuit_launch'), np.str_('generated_track'), np.str_('mountain_track'), np.str_('roboracingleague_1'), np.str_('warren'), np.str_('waveshare')]
+val  :   1487 frames, tracks [np.str_('circuit_launch'), np.str_('generated_track'), np.str_('mountain_track'), np.str_('roboracingleague_1'), np.str_('warren'), np.str_('waveshare')]
+test :   1259 frames, tracks [np.str_('mini_monaco'), np.str_('warehouse')]

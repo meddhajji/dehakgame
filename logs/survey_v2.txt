@@ -1,0 +1,42 @@
+﻿===== roboracingleague_1
+roboracingleague_1: 147 nodes, length 48.9 pos units, scale 8.000
+lap {'lap': 1, 'seconds': 18.0, 'mean_abs_cte_pos': 0.123, 'max_abs_cte_pos': 0.415, 'interventions': 1}
+events: [{'frame': 126, 'type': 'off_road'}]
+===== mini_monaco
+mini_monaco: 304 nodes, length 68.9 pos units, scale 8.000
+lap {'lap': 1, 'seconds': 21.25, 'mean_abs_cte_pos': 0.141, 'max_abs_cte_pos': 0.437, 'interventions': 1}
+events: [{'frame': 106, 'type': 'off_road'}]
+===== circuit_launch
+circuit_launch: 139 nodes, length 46.6 pos units, scale 8.000
+lap {'lap': 1, 'seconds': 16.7, 'mean_abs_cte_pos': 0.148, 'max_abs_cte_pos': 0.453, 'interventions': 2}
+events: [{'frame': 92, 'type': 'off_road'}, {'frame': 111, 'type': 'off_road'}]
+===== warren
+warren: 297 nodes, length 49.4 pos units, scale 8.000
+lap {'lap': 1, 'seconds': 14.5, 'mean_abs_cte_pos': 0.116, 'max_abs_cte_pos': 0.447, 'interventions': 2}
+events: [{'frame': 233, 'type': 'off_road'}, {'frame': 269, 'type': 'off_road'}]
+===== generated_track
+generated_track: 108 nodes, length 26.9 pos units, scale 8.001
+lap {'lap': 1, 'seconds': 9.6, 'mean_abs_cte_pos': 0.123, 'max_abs_cte_pos': 0.559, 'interventions': 2}
+events: [{'frame': 118, 'type': 'off_road'}, {'frame': 125, 'type': 'off_road'}]
+===== mountain_track
+mountain_track: 250 nodes, length 64.4 pos units, scale 8.019
+lap {'lap': 1, 'seconds': 18.95, 'mean_abs_cte_pos': 0.157, 'max_abs_cte_pos': 0.633, 'interventions': 5}
+events: [{'frame': 51, 'type': 'off_road'}, {'frame': 63, 'type': 'off_road'}, {'frame': 147, 'type': 'off_road'}, {'frame': 159, 'type': 'off_road'}, {'frame': 212, 'type': 'off_road'}]
+===== waveshare
+waveshare: 24 nodes, length 8.3 pos units, scale 7.998
+lap {'lap': 1, 'seconds': 4.2, 'mean_abs_cte_pos': 0.063, 'max_abs_cte_pos': 0.128, 'interventions': 0}
+events: []
+===== warehouse
+warehouse: 173 nodes, length 43.9 pos units, scale 8.000
+lap {'lap': 1, 'seconds': 15.3, 'mean_abs_cte_pos': 0.237, 'max_abs_cte_pos': 0.592, 'interventions': 15}
+events: [{'frame': 63, 'type': 'off_road'}, {'frame': 71, 'type': 'off_road'}, {'frame': 79, 'type': 'off_road'}, {'frame': 85, 'type': 'off_road'}, {'frame': 95, 'type': 'off_road'}, {'frame': 108, 'type': 'off_road'}, {'frame': 197, 'type': 'off_road'}, {'frame': 204, 'type': 'off_road'}, {'frame': 211, 'type': 'off_road'}, {'frame': 225, 'type': 'off_road'}, {'frame': 240, 'type': 'off_road'}, {'frame': 248, 'type': 'off_road'}, {'frame': 260, 'type': 'off_road'}, {'frame': 275, 'type': 'off_road'}, {'frame': 293, 'type': 'off_road'}]
+
+===== summary (v2)
+roboracingleague_1   lap  18.00s  mean|cte| 0.123  max|cte| 0.415  interventions 1
+mini_monaco          lap  21.25s  mean|cte| 0.141  max|cte| 0.437  interventions 1
+circuit_launch       lap  16.70s  mean|cte| 0.148  max|cte| 0.453  interventions 2
+warren               lap  14.50s  mean|cte| 0.116  max|cte| 0.447  interventions 2
+generated_track      lap   9.60s  mean|cte| 0.123  max|cte| 0.559  interventions 2
+mountain_track       lap  18.95s  mean|cte| 0.157  max|cte| 0.633  interventions 5
+waveshare            lap   4.20s  mean|cte| 0.063  max|cte| 0.128  interventions 0
+warehouse            lap  15.30s  mean|cte| 0.237  max|cte| 0.592  interventions 15

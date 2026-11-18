@@ -1,0 +1,34 @@
+﻿===== DAgger dagger1 roboracingleague_1
+roboracingleague_1: 147 nodes, length 48.9 pos units, scale 8.000
+lap {'lap': 1, 'seconds': 17.35, 'mean_abs_cte_pos': 0.087, 'max_abs_cte_pos': 0.237, 'interventions': 0}
+lap {'lap': 2, 'seconds': 16.4, 'mean_abs_cte_pos': 0.085, 'max_abs_cte_pos': 0.472, 'interventions': 1}
+events: [{'frame': 380, 'type': 'off_road'}]
+===== DAgger dagger1 circuit_launch
+circuit_launch: 139 nodes, length 46.6 pos units, scale 8.000
+lap {'lap': 1, 'seconds': 16.1, 'mean_abs_cte_pos': 0.107, 'max_abs_cte_pos': 0.442, 'interventions': 2}
+lap {'lap': 2, 'seconds': 14.7, 'mean_abs_cte_pos': 0.12, 'max_abs_cte_pos': 0.488, 'interventions': 1}
+events: [{'frame': 96, 'type': 'off_road'}, {'frame': 246, 'type': 'off_road'}, {'frame': 558, 'type': 'off_road'}]
+===== DAgger dagger1 warren
+warren: 297 nodes, length 49.4 pos units, scale 8.000
+lap {'lap': 1, 'seconds': 14.15, 'mean_abs_cte_pos': 0.12, 'max_abs_cte_pos': 0.443, 'interventions': 3}
+lap {'lap': 2, 'seconds': 13.4, 'mean_abs_cte_pos': 0.144, 'max_abs_cte_pos': 0.479, 'interventions': 2}
+events: [{'frame': 38, 'type': 'off_road'}, {'frame': 75, 'type': 'off_road'}, {'frame': 235, 'type': 'off_road'}, {'frame': 292, 'type': 'off_road'}, {'frame': 316, 'type': 'off_road'}]
+===== DAgger dagger1 generated_track
+generated_track: 108 nodes, length 26.9 pos units, scale 8.001
+lap {'lap': 1, 'seconds': 10.6, 'mean_abs_cte_pos': 0.144, 'max_abs_cte_pos': 0.573, 'interventions': 4}
+lap {'lap': 2, 'seconds': 8.8, 'mean_abs_cte_pos': 0.187, 'max_abs_cte_pos': 0.513, 'interventions': 3}
+events: [{'frame': 51, 'type': 'off_road'}, {'frame': 74, 'type': 'hit:Line01'}, {'frame': 96, 'type': 'off_road'}, {'frame': 98, 'type': 'hit:oak-01(Clone)'}, {'frame': 124, 'type': 'off_road'}, {'frame': 147, 'type': 'off_road'}, {'frame': 218, 'type': 'off_road'}, {'frame': 250, 'type': 'off_road'}, {'frame': 272, 'type': 'hit:Line01'}, {'frame': 304, 'type': 'off_road'}]
+===== DAgger dagger1 mountain_track
+mountain_track: 250 nodes, length 64.4 pos units, scale 8.019
+lap {'lap': 1, 'seconds': 17.95, 'mean_abs_cte_pos': 0.102, 'max_abs_cte_pos': 0.585, 'interventions': 1}
+lap {'lap': 2, 'seconds': 17.05, 'mean_abs_cte_pos': 0.11, 'max_abs_cte_pos': 0.607, 'interventions': 2}
+events: [{'frame': 60, 'type': 'off_road'}, {'frame': 400, 'type': 'off_road'}, {'frame': 411, 'type': 'off_road'}]
+===== DAgger dagger1 waveshare
+waveshare: 24 nodes, length 8.3 pos units, scale 7.998
+lap {'lap': 1, 'seconds': 4.15, 'mean_abs_cte_pos': 0.062, 'max_abs_cte_pos': 0.152, 'interventions': 0}
+lap {'lap': 2, 'seconds': 3.85, 'mean_abs_cte_pos': 0.066, 'max_abs_cte_pos': 0.17, 'interventions': 0}
+lap {'lap': 3, 'seconds': 3.75, 'mean_abs_cte_pos': 0.081, 'max_abs_cte_pos': 0.158, 'interventions': 0}
+lap {'lap': 4, 'seconds': 3.75, 'mean_abs_cte_pos': 0.084, 'max_abs_cte_pos': 0.188, 'interventions': 0}
+lap {'lap': 5, 'seconds': 3.8, 'mean_abs_cte_pos': 0.073, 'max_abs_cte_pos': 0.181, 'interventions': 0}
+lap {'lap': 6, 'seconds': 3.9, 'mean_abs_cte_pos': 0.068, 'max_abs_cte_pos': 0.186, 'interventions': 0}
+events: []

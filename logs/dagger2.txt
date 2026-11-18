@@ -1,0 +1,54 @@
+﻿===== mini_monaco noisy
+mini_monaco: 304 nodes, length 68.9 pos units, scale 8.000
+lap {'lap': 1, 'seconds': 20.35, 'mean_abs_cte_pos': 0.107, 'max_abs_cte_pos': 0.458, 'interventions': 0}
+lap {'lap': 2, 'seconds': 19.9, 'mean_abs_cte_pos': 0.101, 'max_abs_cte_pos': 0.547, 'interventions': 2}
+events: [{'frame': 432, 'type': 'off_road'}, {'frame': 683, 'type': 'off_road'}]
+===== warehouse noisy
+warehouse: 173 nodes, length 43.9 pos units, scale 8.000
+lap {'lap': 1, 'seconds': 13.35, 'mean_abs_cte_pos': 0.12, 'max_abs_cte_pos': 0.582, 'interventions': 0}
+lap {'lap': 2, 'seconds': 14.2, 'mean_abs_cte_pos': 0.117, 'max_abs_cte_pos': 0.998, 'interventions': 3}
+events: [{'frame': 381, 'type': 'off_road'}, {'frame': 429, 'type': 'off_road'}, {'frame': 449, 'type': 'off_road'}]
+===== DAgger dagger2 roboracingleague_1
+roboracingleague_1: 147 nodes, length 48.9 pos units, scale 8.000
+lap {'lap': 1, 'seconds': 17.55, 'mean_abs_cte_pos': 0.091, 'max_abs_cte_pos': 0.281, 'interventions': 0}
+lap {'lap': 2, 'seconds': 16.6, 'mean_abs_cte_pos': 0.083, 'max_abs_cte_pos': 0.435, 'interventions': 2}
+events: [{'frame': 383, 'type': 'off_road'}, {'frame': 552, 'type': 'off_road'}]
+===== DAgger dagger2 circuit_launch
+circuit_launch: 139 nodes, length 46.6 pos units, scale 8.000
+lap {'lap': 1, 'seconds': 15.9, 'mean_abs_cte_pos': 0.139, 'max_abs_cte_pos': 0.412, 'interventions': 1}
+lap {'lap': 2, 'seconds': 14.8, 'mean_abs_cte_pos': 0.142, 'max_abs_cte_pos': 0.418, 'interventions': 1}
+events: [{'frame': 243, 'type': 'off_road'}, {'frame': 541, 'type': 'off_road'}]
+===== DAgger dagger2 warren
+warren: 297 nodes, length 49.4 pos units, scale 8.000
+lap {'lap': 1, 'seconds': 13.9, 'mean_abs_cte_pos': 0.084, 'max_abs_cte_pos': 0.284, 'interventions': 0}
+lap {'lap': 2, 'seconds': 12.9, 'mean_abs_cte_pos': 0.084, 'max_abs_cte_pos': 0.21, 'interventions': 0}
+events: []
+===== DAgger dagger2 generated_track
+generated_track: 108 nodes, length 26.9 pos units, scale 8.001
+lap {'lap': 1, 'seconds': 9.2, 'mean_abs_cte_pos': 0.096, 'max_abs_cte_pos': 0.535, 'interventions': 2}
+lap {'lap': 2, 'seconds': 8.5, 'mean_abs_cte_pos': 0.12, 'max_abs_cte_pos': 0.646, 'interventions': 3}
+events: [{'frame': 46, 'type': 'off_road'}, {'frame': 55, 'type': 'off_road'}, {'frame': 209, 'type': 'off_road'}, {'frame': 216, 'type': 'off_road'}, {'frame': 223, 'type': 'off_road'}]
+===== DAgger dagger2 mountain_track
+mountain_track: 250 nodes, length 64.4 pos units, scale 8.019
+lap {'lap': 1, 'seconds': 17.55, 'mean_abs_cte_pos': 0.11, 'max_abs_cte_pos': 0.536, 'interventions': 2}
+lap {'lap': 2, 'seconds': 16.65, 'mean_abs_cte_pos': 0.121, 'max_abs_cte_pos': 0.502, 'interventions': 2}
+events: [{'frame': 51, 'type': 'off_road'}, {'frame': 63, 'type': 'off_road'}, {'frame': 384, 'type': 'off_road'}, {'frame': 394, 'type': 'off_road'}]
+===== DAgger dagger2 waveshare
+waveshare: 24 nodes, length 8.3 pos units, scale 7.998
+lap {'lap': 1, 'seconds': 4.75, 'mean_abs_cte_pos': 0.036, 'max_abs_cte_pos': 0.122, 'interventions': 0}
+lap {'lap': 2, 'seconds': 4.95, 'mean_abs_cte_pos': 0.036, 'max_abs_cte_pos': 0.103, 'interventions': 0}
+lap {'lap': 3, 'seconds': 5.0, 'mean_abs_cte_pos': 0.049, 'max_abs_cte_pos': 0.128, 'interventions': 0}
+lap {'lap': 4, 'seconds': 4.85, 'mean_abs_cte_pos': 0.038, 'max_abs_cte_pos': 0.113, 'interventions': 0}
+lap {'lap': 5, 'seconds': 4.8, 'mean_abs_cte_pos': 0.04, 'max_abs_cte_pos': 0.108, 'interventions': 0}
+lap {'lap': 6, 'seconds': 5.0, 'mean_abs_cte_pos': 0.042, 'max_abs_cte_pos': 0.113, 'interventions': 0}
+events: []
+===== DAgger dagger2 mini_monaco
+mini_monaco: 304 nodes, length 68.9 pos units, scale 8.000
+lap {'lap': 1, 'seconds': 20.85, 'mean_abs_cte_pos': 0.118, 'max_abs_cte_pos': 0.281, 'interventions': 0}
+lap {'lap': 2, 'seconds': 19.85, 'mean_abs_cte_pos': 0.121, 'max_abs_cte_pos': 0.277, 'interventions': 0}
+events: []
+===== DAgger dagger2 warehouse
+warehouse: 173 nodes, length 43.9 pos units, scale 8.000
+lap {'lap': 1, 'seconds': 14.05, 'mean_abs_cte_pos': 0.425, 'max_abs_cte_pos': 0.99, 'interventions': 3}
+lap {'lap': 2, 'seconds': 13.1, 'mean_abs_cte_pos': 0.456, 'max_abs_cte_pos': 0.967, 'interventions': 4}
+events: [{'frame': 64, 'type': 'off_road'}, {'frame': 75, 'type': 'off_road'}, {'frame': 202, 'type': 'off_road'}, {'frame': 326, 'type': 'off_road'}, {'frame': 337, 'type': 'off_road'}, {'frame': 352, 'type': 'off_road'}, {'frame': 464, 'type': 'off_road'}]

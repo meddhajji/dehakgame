@@ -1,0 +1,25 @@
+﻿python : Traceback (most recent call last):
+At line:1 char:339
++ ... \dehakgame; python survey_tracks.py --model models/race2.pt --laps 2  ...
++                 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (Traceback (most recent call last)::String) [], RemoteException
+    + FullyQualifiedErrorId : NativeCommandError
+ 
+  File "C:\Users\meddh\Desktop\dehakgame\survey_tracks.py", line 31, in <module>
+    laps, events = drive(f"survey_{who}_{scene}", scene=scene, laps=a.laps, max_seconds=40 * a.laps,
+                   ~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+                         model=a.model)
+                         ^^^^^^^^^^^^^^
+RuntimeError: no telemetry for 2 s: was the track changed or the simulator closed?
+===== circuit_launch
+circuit_launch: 139 nodes, length 46.6 pos units, scale 8.000
+lap {'lap': 1, 'seconds': 15.55, 'mean_abs_cte_pos': 0.156, 'max_abs_cte_pos': 0.496, 'interventions': 0}
+lap {'lap': 2, 'seconds': 14.45, 'mean_abs_cte_pos': 0.159, 'max_abs_cte_pos': 0.433, 'interventions': 0}
+events: []
+===== mountain_track
+mountain_track: 250 nodes, length 64.4 pos units, scale 8.019
+lap {'lap': 1, 'seconds': 18.0, 'mean_abs_cte_pos': 0.08, 'max_abs_cte_pos': 0.695, 'interventions': 1}
+
+===== summary (race2)
+circuit_launch       lap  14.45s  mean|cte| 0.159  max|cte| 0.433  interventions 0
+mountain_track       ERROR: no telemetry for 2 s: was the track changed or the simulator closed?  interventions None

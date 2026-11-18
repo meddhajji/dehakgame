@@ -1,0 +1,8 @@
+﻿===== mountain_track
+mountain_track: 250 nodes, length 64.4 pos units, scale 8.019
+lap {'lap': 1, 'seconds': 18.05, 'mean_abs_cte_pos': 0.078, 'max_abs_cte_pos': 0.734, 'interventions': 1}
+lap {'lap': 2, 'seconds': 17.0, 'mean_abs_cte_pos': 0.086, 'max_abs_cte_pos': 0.711, 'interventions': 1}
+events: [{'frame': 60, 'type': 'off_road'}, {'frame': 401, 'type': 'off_road'}]
+
+===== summary (race2)
+mountain_track       lap  17.00s  mean|cte| 0.086  max|cte| 0.711  interventions 2

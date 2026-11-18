@@ -1,0 +1,24 @@
+﻿train 13590, val 2573, test 0 frames
+parameters: 383,378
+baseline val: steering MAE 0.256, target speed MAE 0.84 pos/s
+epoch  1  train loss 0.1600  val loss 0.0815  val steering MAE 0.181  val speed MAE 0.59  (24s)  <- saved
+epoch  2  train loss 0.0713  val loss 0.0569  val steering MAE 0.138  val speed MAE 0.50  (22s)  <- saved
+epoch  3  train loss 0.0467  val loss 0.0428  val steering MAE 0.117  val speed MAE 0.40  (20s)  <- saved
+epoch  4  train loss 0.0349  val loss 0.0417  val steering MAE 0.121  val speed MAE 0.37  (20s)  <- saved
+epoch  5  train loss 0.0288  val loss 0.0416  val steering MAE 0.111  val speed MAE 0.36  (19s)  <- saved
+epoch  6  train loss 0.0254  val loss 0.0347  val steering MAE 0.092  val speed MAE 0.37  (31s)  <- saved
+epoch  7  train loss 0.0226  val loss 0.0373  val steering MAE 0.099  val speed MAE 0.39  (38s)
+epoch  8  train loss 0.0209  val loss 0.0368  val steering MAE 0.099  val speed MAE 0.35  (39s)
+epoch  9  train loss 0.0195  val loss 0.0347  val steering MAE 0.096  val speed MAE 0.33  (38s)  <- saved
+epoch 10  train loss 0.0186  val loss 0.0325  val steering MAE 0.094  val speed MAE 0.32  (39s)  <- saved
+epoch 11  train loss 0.0173  val loss 0.0323  val steering MAE 0.093  val speed MAE 0.32  (26s)  <- saved
+epoch 12  train loss 0.0164  val loss 0.0310  val steering MAE 0.086  val speed MAE 0.32  (18s)  <- saved
+epoch 13  train loss 0.0160  val loss 0.0304  val steering MAE 0.087  val speed MAE 0.31  (17s)  <- saved
+epoch 14  train loss 0.0154  val loss 0.0303  val steering MAE 0.088  val speed MAE 0.31  (18s)  <- saved
+epoch 15  train loss 0.0152  val loss 0.0290  val steering MAE 0.084  val speed MAE 0.30  (18s)  <- saved
+epoch 16  train loss 0.0148  val loss 0.0302  val steering MAE 0.089  val speed MAE 0.30  (18s)
+epoch 17  train loss 0.0143  val loss 0.0306  val steering MAE 0.088  val speed MAE 0.30  (24s)
+epoch 18  train loss 0.0141  val loss 0.0294  val steering MAE 0.086  val speed MAE 0.30  (19s)
+epoch 19  train loss 0.0138  val loss 0.0296  val steering MAE 0.086  val speed MAE 0.30  (18s)
+epoch 20  train loss 0.0139  val loss 0.0291  val steering MAE 0.086  val speed MAE 0.30  (18s)
+best epoch 15

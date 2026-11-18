@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.pyc
+
+# Output of the teacher's my_client.py (one test run, regenerated every run)
+camera/*
+!camera/.gitkeep
+camera_b.png
+
+# Recorded driving data: too big for git (~170 MB, 29k images).
+# Shared as a zip (see README "Getting the data") or re-recorded with record_all.py.
+logs/data_*/
+logs/data_*.jsonl
+
+# Evaluation and experiment runs: re-created by survey_tracks.py / drive.py
+logs/*.jsonl
+logs/*/
+
+# Pre-processed dataset caches, rebuilt by dataset.py
+logs/*.npz
+
+# Small, kept on purpose: logs/*.txt (training/survey outputs quoted in the docs),
+# logs/*.png (figures), logs/track_*.json (measured track geometry)

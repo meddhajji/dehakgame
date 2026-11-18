@@ -1,0 +1,50 @@
+﻿===== roboracingleague_1
+roboracingleague_1: 147 nodes, length 48.9 pos units, scale 8.000
+lap {'lap': 1, 'seconds': 16.85, 'mean_abs_cte_pos': 0.056, 'max_abs_cte_pos': 0.238, 'interventions': 0}
+lap {'lap': 2, 'seconds': 16.0, 'mean_abs_cte_pos': 0.061, 'max_abs_cte_pos': 0.267, 'interventions': 0}
+events: []
+===== mini_monaco
+mini_monaco: 304 nodes, length 68.9 pos units, scale 8.000
+lap {'lap': 1, 'seconds': 20.2, 'mean_abs_cte_pos': 0.038, 'max_abs_cte_pos': 0.142, 'interventions': 0}
+lap {'lap': 2, 'seconds': 19.2, 'mean_abs_cte_pos': 0.046, 'max_abs_cte_pos': 0.15, 'interventions': 0}
+events: []
+===== circuit_launch
+circuit_launch: 139 nodes, length 46.6 pos units, scale 8.000
+lap {'lap': 1, 'seconds': 15.45, 'mean_abs_cte_pos': 0.133, 'max_abs_cte_pos': 0.423, 'interventions': 1}
+lap {'lap': 2, 'seconds': 14.5, 'mean_abs_cte_pos': 0.141, 'max_abs_cte_pos': 0.441, 'interventions': 1}
+events: [{'frame': 255, 'type': 'off_road'}, {'frame': 544, 'type': 'off_road'}]
+===== warren
+warren: 297 nodes, length 49.4 pos units, scale 8.000
+lap {'lap': 1, 'seconds': 13.75, 'mean_abs_cte_pos': 0.045, 'max_abs_cte_pos': 0.14, 'interventions': 0}
+lap {'lap': 2, 'seconds': 12.8, 'mean_abs_cte_pos': 0.05, 'max_abs_cte_pos': 0.11, 'interventions': 0}
+events: []
+===== generated_track
+generated_track: 108 nodes, length 26.9 pos units, scale 8.001
+lap {'lap': 1, 'seconds': 8.95, 'mean_abs_cte_pos': 0.065, 'max_abs_cte_pos': 0.184, 'interventions': 0}
+lap {'lap': 2, 'seconds': 8.1, 'mean_abs_cte_pos': 0.075, 'max_abs_cte_pos': 0.171, 'interventions': 0}
+events: []
+===== mountain_track
+mountain_track: 250 nodes, length 64.4 pos units, scale 8.019
+lap {'lap': 1, 'seconds': 18.1, 'mean_abs_cte_pos': 0.075, 'max_abs_cte_pos': 0.461, 'interventions': 2}
+lap {'lap': 2, 'seconds': 16.95, 'mean_abs_cte_pos': 0.089, 'max_abs_cte_pos': 0.471, 'interventions': 1}
+events: [{'frame': 54, 'type': 'off_road'}, {'frame': 67, 'type': 'off_road'}, {'frame': 396, 'type': 'off_road'}]
+===== waveshare
+waveshare: 24 nodes, length 8.3 pos units, scale 7.998
+lap {'lap': 1, 'seconds': 4.15, 'mean_abs_cte_pos': 0.035, 'max_abs_cte_pos': 0.106, 'interventions': 0}
+lap {'lap': 2, 'seconds': 4.1, 'mean_abs_cte_pos': 0.029, 'max_abs_cte_pos': 0.069, 'interventions': 0}
+events: []
+===== warehouse
+warehouse: 173 nodes, length 43.9 pos units, scale 8.000
+lap {'lap': 1, 'seconds': 12.8, 'mean_abs_cte_pos': 0.109, 'max_abs_cte_pos': 0.44, 'interventions': 0}
+lap {'lap': 2, 'seconds': 11.85, 'mean_abs_cte_pos': 0.121, 'max_abs_cte_pos': 0.454, 'interventions': 0}
+events: []
+
+===== summary (race2)
+roboracingleague_1   lap  16.00s  mean|cte| 0.061  max|cte| 0.267  interventions 0
+mini_monaco          lap  19.20s  mean|cte| 0.046  max|cte| 0.150  interventions 0
+circuit_launch       lap  14.50s  mean|cte| 0.141  max|cte| 0.441  interventions 2
+warren               lap  12.80s  mean|cte| 0.050  max|cte| 0.110  interventions 0
+generated_track      lap   8.10s  mean|cte| 0.075  max|cte| 0.171  interventions 0
+mountain_track       lap  16.95s  mean|cte| 0.089  max|cte| 0.471  interventions 3
+waveshare            lap   4.10s  mean|cte| 0.029  max|cte| 0.069  interventions 0
+warehouse            lap  11.85s  mean|cte| 0.121  max|cte| 0.454  interventions 0

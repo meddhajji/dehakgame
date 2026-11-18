@@ -1,0 +1,5 @@
+# Tested with Python 3.14 on Windows, CPU only
+numpy
+pillow
+matplotlib
+torch

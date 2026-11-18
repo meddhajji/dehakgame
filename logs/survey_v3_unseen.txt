@@ -1,0 +1,14 @@
+﻿===== warehouse
+warehouse: 173 nodes, length 43.9 pos units, scale 8.000
+lap {'lap': 1, 'seconds': 14.05, 'mean_abs_cte_pos': 0.396, 'max_abs_cte_pos': 0.982, 'interventions': 4}
+lap {'lap': 2, 'seconds': 12.95, 'mean_abs_cte_pos': 0.476, 'max_abs_cte_pos': 0.965, 'interventions': 3}
+events: [{'frame': 64, 'type': 'off_road'}, {'frame': 75, 'type': 'off_road'}, {'frame': 202, 'type': 'off_road'}, {'frame': 236, 'type': 'off_road'}, {'frame': 327, 'type': 'off_road'}, {'frame': 338, 'type': 'off_road'}, {'frame': 461, 'type': 'off_road'}]
+===== mini_monaco
+mini_monaco: 304 nodes, length 68.9 pos units, scale 8.000
+lap {'lap': 1, 'seconds': 20.65, 'mean_abs_cte_pos': 0.115, 'max_abs_cte_pos': 0.256, 'interventions': 0}
+lap {'lap': 2, 'seconds': 19.7, 'mean_abs_cte_pos': 0.122, 'max_abs_cte_pos': 0.291, 'interventions': 0}
+events: []
+
+===== summary (v3)
+warehouse            lap  12.95s  mean|cte| 0.476  max|cte| 0.965  interventions 7
+mini_monaco          lap  19.70s  mean|cte| 0.122  max|cte| 0.291  interventions 0
